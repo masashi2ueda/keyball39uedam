@@ -26,3 +26,8 @@
 1. keycap0×10、keycap1×8、keycap1_bar×2、keycap2×10、keycap3×4を印刷
 1. キーボードの上から番号順に（一番上の列が0）装着（ホームポジションにはkeycap1_barを配置する）
 
+# 参考+利用しているもの
+- [OpenScad library. Threads for screws and nuts V1](https://www.thingiverse.com/thing:3131126#google_vignette)
+- [keyball](https://github.com/Yowkees/keyball)
+- [キーキャップ設計による OpenSCAD 入門](https://qiita.com/zk_phi/items/ab99315ebaef66e84aa0)
+
